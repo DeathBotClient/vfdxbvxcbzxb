@@ -1,0 +1,27 @@
+.top {
+  color: #002147;
+  position: relative;
+  top: 18px;
+  left: 10px;
+  border: thin solid grey;
+	width:1050px;
+	height:100px;
+}
+
+.links {
+  top: 1;
+}
+
+.toph {
+  position: relative;
+  top: 10px;
+  left: 10px;
+  font-family: Jazz LET, fantasy;
+}
+
+.topimg {
+  float: left;
+  width: 100px;
+  height: 90px;
+  background: #555;
+}
